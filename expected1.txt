@@ -1,1 +1,1 @@
-expected output from the program
+some output from the program
